@@ -36,4 +36,6 @@
 
 ## [教學](./Tutorial/Tutorial.md)
 
+## [外殼模型下載](https://makerworld.com/zh/models/2195241-wfego-000004-1-3-inch-display#profileId-2383919)   
+
 ## [Buy From](https://shopee.tw/ST7789-1.3%E5%90%8B-240-x-240-%E8%BF%B7%E4%BD%A065K%E5%85%A8%E5%BD%A9-IPS%E6%B6%B2%E6%99%B6%E8%9E%A2%E5%B9%95-SPI%E9%80%9A%E8%A8%8A-LCD%E9%A1%AF%E7%A4%BA%E5%99%A8-i.26640381.28901773952?xptdk=ba4e6fc9-07b9-4d0c-a5a3-281ecef229f6)
