@@ -34,6 +34,8 @@
 ## Dimensions
 ![pinout](./Board/Dimensions.png)
 
+## [專案描述](./Personal_Project/Personal_Project)
+
 ## [教學](./Tutorial/Tutorial.md)
 
 ## [外殼模型下載](https://makerworld.com/zh/models/2195241-wfego-000004-1-3-inch-display#profileId-2383919)   
