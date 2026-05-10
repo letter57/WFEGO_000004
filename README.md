@@ -34,7 +34,7 @@
 ## Dimensions
 ![pinout](./Board/Dimensions.png)
 
-## [專案描述](./Personal_Project/Personal_Project)
+## [專案描述](./Personal_Project/Personal_Project.md)
 
 ## [教學](./Tutorial/Tutorial.md)
 
